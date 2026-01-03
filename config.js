@@ -21,11 +21,11 @@ module.exports = {
   lowMemoryMode: true,  // Enable optimizations for low-memory hosting
   errorLog: "", 
   nodes: [
-     {
-      name: "GlceYT",
-      password: "glace",
-      host: "de-01.strixnodes.com",
-      port: 2010,
+   {
+      name: "D-Radio",
+      password: "KaAs",
+      host: "ishaan.hidencloud.com",
+      port: 24590,
       secure: false
     }
   ]
