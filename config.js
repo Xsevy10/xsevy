@@ -21,12 +21,12 @@ module.exports = {
   lowMemoryMode: true,  // Enable optimizations for low-memory hosting
   errorLog: "", 
   nodes: [
-  {
-  "name": "prmgvyt",
-  "host": "217.160.125.127",
-  "port": 14845,
-  "password": "prmgvyt",
-  "secure": false
-}
+ {
+      name: "D-Radio",
+      password: "KaAs",
+      host: "ishaan.hidencloud.com",
+      port: 24590,
+      secure: false
+    }
   ]
 }
