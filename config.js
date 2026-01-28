@@ -22,11 +22,10 @@ module.exports = {
   errorLog: "", 
   nodes: [
  {
-  name: "Lavalink Rocks v4",
-  host: "v4.lavalink.rocks",
-  port: 443,
-  password: "horizxon.tech",
-  secure: true
+  host : pnode1.danbot.host
+port : 1186‎
+pass : Kaun.Yuvraj
+secure : false
 }
   ]
 }
