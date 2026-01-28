@@ -22,11 +22,12 @@ module.exports = {
   errorLog: "", 
   nodes: [
  {
-name: "GlaceYT1",
-password: "glace",
-host: "de-01.strixnodes.com",
-port: 2010,
-secure: false
+Name : AYANO LAVA
+host : 194.58.66.44
+port : 3660
+pass : AYANO 
+secure : false
+status : online
 }
   ]
 }
