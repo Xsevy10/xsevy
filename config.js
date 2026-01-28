@@ -22,12 +22,11 @@ module.exports = {
   errorLog: "", 
   nodes: [
  {
-Name : AYANO LAVA
-host : 194.58.66.44
-port : 3660
-pass : AYANO 
-secure : false
-status : online
-}
+      name: "D-Radio",
+      password: "KaAs",
+      host: "ishaan.hidencloud.com",
+      port: 24590,
+      secure: false
+    }
   ]
 }
