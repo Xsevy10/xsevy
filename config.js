@@ -22,11 +22,11 @@ module.exports = {
   errorLog: "", 
   nodes: [
  {
-      name: "Lunarnode",
-      password: "youshallnotpass",
-      host: "in1.lunarnode.xyz",
-      port:  2993,
-      secure: false
-    }
+name: "GlaceYT1",
+password: "glace",
+host: "de-01.strixnodes.com",
+port: 2010,
+secure: false
+}
   ]
 }
