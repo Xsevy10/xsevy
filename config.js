@@ -23,7 +23,7 @@ module.exports = {
   nodes: [
  {
     name: "GlaceYT2",
-    password: "xsevy",
+    password: "glace",
     host: "45.13.236.245",
     port: 12508,
     secure: false
